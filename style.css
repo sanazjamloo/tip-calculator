@@ -45,8 +45,7 @@ input {
 }
 
 #bill {
-  font-size: 14px;
-  /*color: #2980b9;*/
+  font-size: 1em;
   color: #red;
   background-color: #f7f7f7;
   width: 60%;
@@ -64,7 +63,6 @@ input {
   width: 51%;
   padding: 5px 5px 8px 8px;
   margin-left: 24%;
-  color: #red;
   background-color: #f7f7f7;
   font-size: 14px;
   border-radius: 5px;
@@ -85,12 +83,16 @@ button {
   font-weight: bold;
   display: block;
   margin: 30px auto;
-  background: #AD133A;
+  background: #90005d;
   border-radius: 5px;
-  width: 200px;
+  width: 50%;
   height: 50px;
   font-size: 17px;
   color: white;
+  box-shadow: gray;
+  box-shadow: black;
+  text-shadow: cyan;
+  box-shadow: 4px 4px #888888;
 }
 
 button:hover {
