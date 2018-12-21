@@ -131,3 +131,16 @@ button:active {
   font-weight: bold;
   display: block;
 }
+
+footer {
+  height: 33px;
+  background-color: #24292e;
+  color: #f0f0f0;
+  padding-left: 44%;
+  padding-top: 0.5%;
+  /* padding-bottom: 23px; */
+  position: fixed;
+  /* left: 0; */
+  bottom: 0;
+  width: 100%;
+}
